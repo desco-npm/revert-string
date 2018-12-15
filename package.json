@@ -1,0 +1,12 @@
+{
+  "name": "@desco/revert-string",
+  "version": "1.0.0",
+  "description": "Invert a string",
+  "author": "Rafael A. R. Dias <contato@diasrafael.com.br>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://eudiasrafael@bitbucket.org/eudiasrafael/desco-revert-string.git"
+  },
+  "private": false,
+  "license": "ISC"
+}
